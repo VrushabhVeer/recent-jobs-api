@@ -1,0 +1,65 @@
+[
+    {
+        "companyLogo": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F1f61d027-d061-4780-9198-fb8c716d6e0a&w=828&q=75",
+        "CompanyNmae": "Talewind",
+        "jobRole": "Lead Producer",
+        "salary": 50,
+        "fullTime": true,
+        "address": "Castle Business Centre, Queensferry Road, United Kingdom",
+        "about": "At Talewind we are committed to promoting and building an inclusive studio. We want and celebrate diversity within our team - difference makes us and the games we make better.We strongly encourage candidates of all backgrounds regardless of race, colour, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, gender, gender identity or expression or sexual orientation to apply for any of our vacancies.Come work with us!"
+    },
+    {
+        "companyLogo": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fd74e52d1-6529-4ab1-98b2-a27b1b9947ed&w=828&q=75",
+        "CompanyNmae": "SlimWiki",
+        "jobRole": "Full-Stack Developer",
+        "salary": 50,
+        "fullTime": true,
+        "address": "Khlong-Toei, Bangkok, Thailand",
+        "about": "As a JavaScript Developer, you are interested in building performant APIs and Web Applications. You are experienced in architecting, building, and maintaining applications. Your role also includes coordinating with the teams responsible for other parts of the product’s design, development, and growth."
+    },
+    {
+        "companyLogo": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F1f61d027-d061-4780-9198-fb8c716d6e0a&w=828&q=75",
+        "CompanyNmae": "Talewind",
+        "jobRole": "Laed Game Developer",
+        "salary": 50,
+        "fullTime": true,
+        "address": "Castle Business Centre, Queensferry Road, United Kingdom",
+        "about": "At Talewind we are committed to promoting and building an inclusive studio. We want and celebrate diversity within our team - difference makes us and the games we make better.We strongly encourage candidates of all backgrounds regardless of race, colour, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, gender, gender identity or expression or sexual orientation to apply for any of our vacancies.Come work with us!"
+    },
+    {
+        "companyLogo": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2Fd4f13259-d651-4b8a-8115-48bdfabd24aa&w=828&q=75",
+        "CompanyNmae": "Wanderlust Group",
+        "jobRole": "Director of Marketing",
+        "salary": 50,
+        "fullTime": true,
+        "address": "Miami, Florida, USA",
+        "about": "Working at Wanderlust The Wanderlust Group is a unique company. A hybrid B2B and B2C business, we connect boaters to marinas and campers to campgrounds. Because we believe in the value of putting screens down and getting outside, the entire company practices offline Mondays. Spend your Mondays hiking, thinking, reading, sailing. It doesn’t matter as long as you’re not emailing or in meetings. We also care a lot about the marinas and campgrounds we serve. They are often small businesses playing an important role in the local economy around them. That dedication carries through our work. Finally, because we are wanderers at heart, this position is open to remote candidates."
+    },
+    {
+        "companyLogo": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F0ecc5576-0a1c-4787-880b-6e23c379550e&w=828&q=75",
+        "CompanyNmae": "JumpSearch",
+        "jobRole": "Senior Software Engineer",
+        "salary": 50,
+        "fullTime": true,
+        "address": "Lehi, Utah, USA",
+        "about": "Are you looking for an opportunity to develop your career in a fast-growing tech company? Our client is an industry-leading document management software company. We help businesses get back to work securely, efficiently, and effectively. Companies can manage all their documents with our top-rated cloud-based Rubex platform.Our robust product includes Smart Automation, Workflow, Templates, Share & Requests, Governance, and eSignature with KBA/OTP. With our top-rated customer service (check G2), our product a no-brainer for companies looking to get back to what matters."
+    },
+    {
+        "companyLogo": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F0ecc5576-0a1c-4787-880b-6e23c379550e&w=828&q=75",
+        "CompanyNmae": "JumpSearch",
+        "jobRole": "Account Executive",
+        "salary": 50,
+        "fullTime": true,
+        "address": "Lehi, Utah, USA",
+        "about": "Are you looking for an opportunity to develop your career in a fast-growing tech company? Our client is an industry-leading document management software company. We help businesses get back to work securely, efficiently, and effectively. Companies can manage all their documents with our top-rated cloud-based Rubex platform.Our robust product includes Smart Automation, Workflow, Templates, Share & Requests, Governance, and eSignature with KBA/OTP. With our top-rated customer service (check G2), our product a no-brainer for companies looking to get back to what matters."
+    },
+    {
+        "companyLogo": "https://www.wework4days.com/_next/image?url=https%3A%2F%2Fapi.wework4days.com%2Fassets%2F5588c68a-7beb-4004-96ac-11b2ba547e5c&w=828&q=75",
+        "CompanyNmae": "Automio",
+        "jobRole": "Full-Stack Developer",
+        "salary": 50,
+        "fullTime": true,
+        "address": "Auckland, New Zealand",
+        "about": "Autom.io is a super passionate, pioneering legal tech and education company based in New Plymouth, New Zealand.Our mission is to help 1 million lawyers build their dream law firm so together we will revolutionise the legal industry.We are creating a world where lawyers love their work, clients love their lawyers and lawyers love collaborating with each other. We will do this with our juicy 1-click automation software and world-class training programme, Scale Up"
+    }
+]
